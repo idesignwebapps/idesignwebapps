@@ -1,4 +1,4 @@
-![adi's profile banner](https://github.com/idesignwebapps/idesignwebapps/blob/main/profile-banner.png?raw=true)
+![adi's profile banner](https://github.com/idesignwebapps/idesignwebapps/blob/main/profile-banner-new.png?raw=true)
 
 # Hi there! 👋
 
